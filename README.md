@@ -21,4 +21,4 @@ Aqui é utilizada uma interface para que se possa inserir dados de transações 
 !["Pipeline Dados B3 - AWS"](https://github.com/josecarlos-dataengineer/DataLakehouse_Dados_Economicos/blob/main/Readme.md)
 Aqui neste projeto é desenvolvida a coleta de dados da B3 (Brasil - Bolsa - Balcão), bem como a transformação e integração de dados em Datalake S3. <br>
 ***palavras chave:*** <br>
-***Docker, S3, Boto3, BeautifulSoup, Selenium, Pandas***
+***Docker, AWS S3, AWS IAM, Boto3, BeautifulSoup, Selenium, Pandas***
