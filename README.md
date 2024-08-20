@@ -20,3 +20,8 @@ Aqui é utilizada uma interface para que se possa inserir dados de transações 
 Aqui neste projeto é desenvolvida a coleta de dados da B3 (Brasil - Bolsa - Balcão), bem como a transformação e integração de dados em Datalake S3. <br>
 ***palavras chave:*** <br>
 ***Docker, AWS S3, AWS IAM, Boto3, BeautifulSoup, Selenium, Pandas***
+
+!["Pipeline Airflow"](https://github.com/josecarlos-dataengineer/data_series4_pyspark_minio_airflow/blob/main/Readme.md#airflow---python---spark---minio)
+Pipeline que coleta dados de API, salva em object storage Minio, transforma dados, usando Spark Container e carrega em banco de dados Postgres.
+***palavras chave:*** <br>
+***Docker, Airflow, Minio, Spark, Python***
