@@ -1,7 +1,7 @@
 # Projetos:
 
 !["Análise de Vendas"](https://github.com/josecarlos-dataengineer/data_series3_delta_pyarrow_flask_pandas_medalion/blob/main/Readme.md#engenharia--an%C3%A1lise-de-dados) <br>
-Nesse projeto utilizo SQLSERVER para servir dados via API para a análise em Power BI. A arqquitetura foi desenvolvida utilizando conceitos de **Datalake** e **Medallion Architecture**. <br>
+Nesse projeto utilizo SQLSERVER para servir dados via API para a análise em Power BI. A arquitetura foi desenvolvida utilizando conceitos de **Datalake** e **Medallion Architecture**. <br>
 ***palavras chave:*** <br>
 ***Flask, Power BI, deltalake, Pyarrow, Pandas, Requests.***
 
