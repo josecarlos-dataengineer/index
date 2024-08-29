@@ -26,7 +26,7 @@ Pipeline que coleta dados de API, salva em object storage Minio, transforma dado
 ***palavras chave:*** <br>
 ***Docker, Airflow, Minio, Spark, Python***
 
-!["Data_Vault"](https://github.com/josecarlos-dataengineer/data_series5_data_vault?tab=readme-ov-file#descri%C3%A7%C3%A3o)
+!["Data_Vault"](https://github.com/josecarlos-dataengineer/data_series5_data_vault?tab=readme-ov-file#descri%C3%A7%C3%A3o) <br>
 Pipeline de estudo da metodologia/modelagem Data Vault. <br>
 ***palavras chave:*** <br>
 ***Delta Table, Hub, Satelite, Link, Pandas***
