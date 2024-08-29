@@ -25,3 +25,8 @@ Aqui neste projeto é desenvolvida a coleta de dados da B3 (Brasil - Bolsa - Bal
 Pipeline que coleta dados de API, salva em object storage Minio, transforma dados, usando Spark Container e carrega em banco de dados Postgres.
 ***palavras chave:*** <br>
 ***Docker, Airflow, Minio, Spark, Python***
+
+!["Data_Vault"](https://github.com/josecarlos-dataengineer/data_series5_data_vault?tab=readme-ov-file#descri%C3%A7%C3%A3o)
+Pipeline de estudo da metodologia/modelagem Data Vault.
+***palavras chave:*** <br>
+***Delta Table, Hub, Satelite, Link, Pandas***
